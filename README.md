@@ -20,4 +20,4 @@ OK，下面我们进行教学：
 
 1. Games 系统拥有版权，更新时请上报 githunwyb。
 2. Games 系统不构成自主研发体系，里面的游戏转载**绝对**属实
-3. 若您有什么建议的话，可以在本项目的 iessues 里的 ... 里反馈。
+3. 若您有什么建议的话，可以在 [这里](https://github.com/githunwyb/Games/issues/1) 反馈。
